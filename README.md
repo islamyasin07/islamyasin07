@@ -10,9 +10,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0f172a" />
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=38bdf8&labelColor=0f172a" />
+<img src="https://komarev.com/ghpvc/?username=islamyasin07&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/islamyasin07?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0f172a" />
+<img src="https://img.shields.io/github/stars/islamyasin07?label=Stars&style=for-the-badge&color=38bdf8&labelColor=0f172a" />
 
 </div>
 
@@ -194,9 +194,9 @@ The goal is to simulate a real moderation workflow system where admins can revie
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=E5E7EB" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=islamyasin07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=E5E7EB" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamyasin07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" />
 
 </div>
 
@@ -206,7 +206,7 @@ The goal is to simulate a real moderation workflow system where admins can revie
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=A855F7&fire=F97316&currStreakLabel=38BDF8" />
+<img src="https://streak-stats.demolab.com?user=islamyasin07&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=A855F7&fire=F97316&currStreakLabel=38BDF8" />
 
 </div>
 
@@ -216,7 +216,7 @@ The goal is to simulate a real moderation workflow system where admins can revie
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=A855F7&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=islamyasin07&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=A855F7&point=FFFFFF" />
 
 </div>
 
@@ -226,7 +226,7 @@ The goal is to simulate a real moderation workflow system where admins can revie
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/islamyasin07/islamyasin07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -319,19 +319,19 @@ Documentation   : Markdown
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:0islamyasin@gmail.com">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/islam-yasin/">
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://github.com/islamyasin07">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=A855F7" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/islamyasin07">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
