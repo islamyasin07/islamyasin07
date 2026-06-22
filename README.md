@@ -248,20 +248,7 @@ Debugging Level     : Dangerous but improving
 Coffee Dependency   : Critical
 ```
 
----
 
-## 🏗️ Project Categories I Like
-
-| Category | Description |
-|---|---|
-| Web Applications | Full-stack apps with real frontend/backend structure |
-| Cloud Systems | Deploying apps using AWS, Docker, and managed services |
-| Cybersecurity | Understanding secure design, authentication, and system risks |
-| Dashboards | Admin panels, analytics, and monitoring systems |
-| Automation | Scripts, workflows, and tools that reduce manual work |
-| Gaming Tech | Moderation systems, anti-cheat concepts, and player analytics |
-
----
 
 ## 🧪 Current Build Philosophy
 
